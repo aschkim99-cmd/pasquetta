@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "adminPhone": "3663594487",
+    "adminPassword": "Blablaric.77"
+  },
+  "users": [
+    {
+      "id": "bc6eeb6f-4100-43bb-acff-721764e5567a",
+      "name": "EleoRora",
+      "phone": "3891882448",
+      "amount": "0",
+      "phrase": "Tu sei l'amore mio quindi non paghi"
+    }
+  ]
+}
